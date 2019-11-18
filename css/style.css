@@ -1,8 +1,8 @@
 body{
 }
 .jumbotron {
-  background-image: url('../images/fruit-and-veg.jpg');
+  background-image: url('../images/nomada-pic.jpg');
   background-size: cover;
   background-attachment:fixed;
-  min-height: 600px;
+  min-height: 1000px;
 }
