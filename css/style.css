@@ -8,6 +8,14 @@ body{
 
 }
 
+.map {
+  background-image: url('../images/world-map.jpg');
+  background-size: cover;
+  background-attachment:fixed;
+  min-height: 600px;
+
+}
+
 h1 { font-size:200px ;font-family: aloja; text-align: center; color:white; font-weight: lighter; font-stretch: expanded;}
 
 
