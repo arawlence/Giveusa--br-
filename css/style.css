@@ -8,22 +8,21 @@ body{
 
 }
 
+h1 { font-size:200px ;font-family: aloja; text-align: center; color:white; font-weight: lighter; font-stretch: expanded;}
+
 .map {
   background-image: url('../images/world-map.jpg');
   background-size: cover;
   background-attachment:scroll;
-  min-height: 500px;
+  min-height: 600px;
 
 }
 
-h1 { font-size:200px ;font-family: aloja; text-align: center; color:white; font-weight: lighter; font-stretch: expanded;}
+
 
 
 .buzz{
   p{
     font-size: 32px;
     colour: #1fcbde;
-}
-
-}
 }
