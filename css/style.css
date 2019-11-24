@@ -19,9 +19,13 @@ h1 { font-size:200px ; font-family: aloja  ; text-align:center; color:white; }
 }
 
 
-.buzz {
-  p;
+h2 { font-size: 40px ; font-family: aloja; color:
 
 }
 
-.mission{text-align: center; }
+h3{
+font-size:40px ; font-family: aloja  ; text-align:center; color:grey; 
+
+}
+
+.mission {text-align: center; }
