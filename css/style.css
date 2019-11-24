@@ -19,10 +19,10 @@ h1 { font-size:200px ;font-family: aloja; text-align: center; color:white; font-
 }
 
 
-.buzz{
+#buzz{
   p{
     font-size: 32px;
     colour: #1fcbde;
 }
 
-.social-buttons{text-align: center; }
+.mission{text-align: center; }
