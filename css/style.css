@@ -1,6 +1,8 @@
 
 body{ background-color: #BDC3C7  ; background-size: cover; margin: auto; min-width: auto ; min-height: auto
 }
+.container {min-width: 100%;  min-height: 100%; margin: 0 }
+
 .jumbotron {
   background-image: url('../images/paradise-beach.jpg');
   background-size: cover;
@@ -8,8 +10,6 @@ body{ background-color: #BDC3C7  ; background-size: cover; margin: auto; min-wid
   min-height: 600px;
 
 }
-
-.container {min-width: 100%;  min-height: 100%; margin: 0 }
 
 h1 { font-size:200px ; font-family: aloja  ; text-align:center; color:white; }
 
@@ -22,13 +22,6 @@ h1 { font-size:200px ; font-family: aloja  ; text-align:center; color:white; }
 }
 
 
-h2 { font-size:40px ; font-family: aloja  ; text-align:center; color:white
+h2, h3 { font-size:40px ; font-family: aloja  ; text-align:center; color:white
 
 }
-
-h3{
-font-size:40px ; font-family: aloja  ; text-align:center; color:white;
-
-}
-
-mission {text-align: center; }
