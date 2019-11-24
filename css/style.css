@@ -8,7 +8,7 @@ body{
 
 }
 
-h1 { font-size:200px ;font-family: aloja; text-align: center; color:white; font-weight: lighter; font-stretch: expanded;}
+h1 { font-size:200px ; font-family: aloja  ; text-align:center; color:white; }
 
 .map {
   background-image: url('../images/world-map.jpg');
@@ -19,10 +19,9 @@ h1 { font-size:200px ;font-family: aloja; text-align: center; color:white; font-
 }
 
 
-#buzz{
-  p{
-    font-size: 32px;
-    colour: #1fcbde;
+.buzz {
+  p;
+
 }
 
 .mission{text-align: center; }
