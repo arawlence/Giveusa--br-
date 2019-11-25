@@ -11,7 +11,7 @@ body{ background-color: #BDC3C7  ; background-size: cover; margin: auto; min-wid
 
 }
 
-h1 { font-size:200px ; font-family: aloja  ; text-align:center; color:white; }
+h1 { font-size:160px ; font-family: 'Rock Salt', cursive;  ; text-align:center; color: white }
 
 .map {
   background-image: url('../images/world-map.jpg');
@@ -27,12 +27,18 @@ h2{ font-size:80px ; font-family: aloja  ; text-align:center; color:white
 
 }
 
- h3 { font-size:60px ; font-family: aloja  ; text-align:center; color:white
+ h3 { font-size:60px ; font-family: aloja  ; text-align:center; color:white;
 
  }
 
-h4 { font-size:40px ; font-family: aloja  ; text-align:center; color:white; weight:light}
+
+
+h4 { font-size:20px ; font-family: aloja  ; text-align:center; color:white; weight:light}
+
+h4 span {background-color: grey; opacity: 0.5 }
 
 h5 {font-size:50px ; font-family: aloja  ; text-align:center; color:white}
+
+h7 {}
 
 p{font-size:20px ; font-family: aloja  ; text-align:center; color:white; font-weight: bold }
