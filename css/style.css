@@ -33,12 +33,14 @@ h2{ font-size:80px ; font-family: aloja  ; text-align:center; color:white
 
 
 
-h4 { font-size:20px ; font-family: aloja  ; text-align:center; color:white; weight:light}
+h4 { font-size:25px ; font-family: aloja  ; text-align:center; color:white; font-weight: bold }
 
-h4 span {background-color: grey; opacity: 0.5 }
+
 
 h5 {font-size:50px ; font-family: aloja  ; text-align:center; color:white}
 
-h7 {}
+h7 {font-size:20px ; font-family: aloja  ; text-align:center; color:white}
 
 p{font-size:20px ; font-family: aloja  ; text-align:center; color:white; font-weight: bold }
+
+li{font-size:20px ; font-family: aloja  ; text-align:left; color:white; }
