@@ -23,9 +23,13 @@ h1 { font-size:200px ; font-family: aloja  ; text-align:center; color:white; }
 
 .about-id {text-align: center; color: pink}
 
-h2, h3 { font-size:80px ; font-family: aloja  ; text-align:center; color:white
+h2{ font-size:80px ; font-family: aloja  ; text-align:center; color:white
 
 }
+
+ h3 { font-size:60px ; font-family: aloja  ; text-align:center; color:white
+
+ }
 
 h4 { font-size:40px ; font-family: aloja  ; text-align:center; color:white; weight:light}
 
